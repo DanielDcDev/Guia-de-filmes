@@ -5,8 +5,8 @@
 
 <h1>Prints para visualização</h1>
 <h3>visões de filmes </h3>
-<img src="/imagensreview/myBabyFilm.jpeg">
-<img src="/imagensreview/myFilm.jpeg">
+<img src="/images/myBabyFilm.jpeg">
+<img src="/images/myFilm.jpeg">
 <h3>visões de erros </h3>
-<img src="/imagensreview/Error01.jpeg">
-<img src="/imagensreview/Error02.jpeg">
+<img src="/images/Error01.jpeg">
+<img src="/images/Error02.jpeg">
