@@ -5,7 +5,7 @@
  }
  body{
     height: 100vh;
-    background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    background: linear-gradient(#d76418 50%, #040302 50%);
  }
 
  .container{
@@ -17,7 +17,7 @@
     position:absolute;
     transform: translate(-50%, 50%);
     left: 50%;
-    top:-20%;
+    top:30%;
     border-radius: 0.6em;
     box-shadow: 1.2em 2em 3em rgba(0,0,0, 0.2);
 }
