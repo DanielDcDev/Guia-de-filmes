@@ -9,4 +9,4 @@
 <img src="/images/myFilm.jpeg">
 <h3>visões de erros </h3>
 <img src="/images/Error01.jpeg">
-<img src="/images/Error02.jpeg">
+<img src="/images/error02.jpeg">
